@@ -1,2 +1,3 @@
 # hand-digits-classifier
-Handwritten Digits Classifier Neural Net
+Handwritten Digits Classifier Neural Net.
+adding stuff
